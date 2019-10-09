@@ -3,11 +3,11 @@ import React from 'react'
 
 const seasonConfig={
     summer:{
-        text:"let's go to beach ",
+        text:"hoo it's summer ,on ac plz ",
         iconName:'sun'
     },
     winter:{
-        text:"it's cold!",
+        text:"hoo it's winter, on heater plz ",
         iconName:'snowflake'
     }
 };
